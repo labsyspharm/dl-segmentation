@@ -1,2 +1,2 @@
 # dl-segmentation
-Depp learning segmentation models
+Deep learning segmentation models
